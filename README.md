@@ -35,3 +35,5 @@ Processes pathfinding requests concurrently across multiple threads.
 Utilizes iterative algorithms to maintain performance consistency.
 
 Integrates seamlessly with the quadtree for spatial queries and obstacle management.
+
+For more details: https://medium.com/@kemagedy/poc-of-custom-chunk-based-ecs-4adb260b3cc6
