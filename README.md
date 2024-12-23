@@ -1,6 +1,8 @@
 NOTE: This project is currently under active development. New features, optimizations, and improvements are being added regularly. 
 
-Performance Optimization with GPU Instancing, Bitwise Archetype Check, Iterative Quadtree Integration, and Multithreaded Iterative A* Pathfinding (Stats in the video: 128x128 tile map, 1024 active mover,Setpass Calls:3 FPS: ~250)
+(Stats in the video: 128x128 tile map, 1024 active mover,Setpass Calls:3 FPS: ~200(In editor))
+
+Performance Optimization with GPU Instancing, Bitwise Archetype Check, Iterative Quadtree Integration, and Multithreaded Iterative A* Pathfinding 
 
 https://github.com/user-attachments/assets/2ec2c00c-5131-4d51-84eb-485229a1e1aa
 
