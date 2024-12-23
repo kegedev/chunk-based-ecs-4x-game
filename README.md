@@ -1,3 +1,4 @@
+NOTE: This project is currently under active development. New features, optimizations, and improvements are being added regularly. 
 
 Performance Optimization with GPU Instancing, Bitwise Archetype Check, Iterative Quadtree Integration, and Multithreaded Iterative A* Pathfinding
 
